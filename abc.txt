@@ -1,0 +1,6 @@
+1 - create a file with one function 
+2 - function which is  for adding two numbers and disply the number
+3 - call the function inside main().
+
+NOTE : file name : index.rs
+        function name : addfn()
